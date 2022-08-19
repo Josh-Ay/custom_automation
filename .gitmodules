@@ -1,6 +1,6 @@
 [submodule "custom-web-scraper"]
 	path = custom-web-scraper
 	url = https://github.com/Josh-Ay/custom-web-scraper.git
-[submodule "udemy-prce-tracker-bot"]
+[submodule "udemy-price-tracker-bot"]
 	path = udemy-price-tracker-bot
 	url = https://github.com/Josh-Ay/udemy-price-tracker-bot.git
