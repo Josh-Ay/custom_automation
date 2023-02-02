@@ -4,3 +4,6 @@
 [submodule "udemy-price-tracker-bot"]
 	path = udemy-price-tracker-bot
 	url = https://github.com/Josh-Ay/udemy-price-tracker-bot.git
+[submodule "file-extension-rewriter"]
+	path = file-extension-rewriter
+	url = https://github.com/Josh-Ay/file-extension-rewriter.git
