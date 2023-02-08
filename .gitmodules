@@ -7,3 +7,6 @@
 [submodule "file-extension-rewriter"]
 	path = file-extension-rewriter
 	url = https://github.com/Josh-Ay/file-extension-rewriter.git
+[submodule "email-forwarder-bot"]
+	path = email-forwarder-bot
+	url = https://github.com/Josh-Ay/email-forwarder-bot.git
