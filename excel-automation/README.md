@@ -1,1 +1,0 @@
-A simple python script that creates an excel sheet from a '.txt' file.
