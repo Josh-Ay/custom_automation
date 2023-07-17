@@ -20,7 +20,7 @@ A script that creates an excel sheet from a '.txt' file.
 - [Link to codebase](https://github.com/Josh-Ay/excel-automation)
 
 ### File extension rewriter
-A cross platform desktop GUI that helps to change the extension of multiple files in a folder. 
+A cross platform desktop GUI that helps to change the extension of multiple files and nested files in a folder. 
 - [Link to codebase](https://github.com/Josh-Ay/file-extension-rewriter)
 
 ### Udemy price tracker bot
